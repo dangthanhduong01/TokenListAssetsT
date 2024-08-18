@@ -1,0 +1,44 @@
+{
+    "name": "Trustkeys Token List",
+    "logoURI": "https://soict.hust.edu.vn/innovation/wp-content/uploads/2022/01/Logo1x.14121cd7-1.png",
+    "keywords": ["defi"],
+    "timestamp": "2024-06-05T02:01:13.652+00:00",
+    "tokens": [
+      {
+        "chainId": 11968,
+        "name": "FIRSTCOIN",
+        "address": "0x1ccF6A9b71c16E226C0Dff0B50EDd875375C84D0",
+        "decimals": 18,
+        "symbol": "FC",
+        "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      },
+      {
+        "chainId": 11968,
+        "name": "ACOIN",
+        "address": "0x7fA9d0EA98de26e3497455CbA80fbEebEdF7f6E9",
+        "decimals": 18,
+        "symbol": "AC",
+        "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      },
+      {
+        "chainId":11968,
+        "name":"USDT Testnet",
+        "address": "0xb5b0bb421606450a90235a0319104a0174d95b4c",
+        "decimals": 6,
+        "symbol": "USDT",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+      },
+      {
+        "chainId":11968,
+        "name":"USDC Testnet",
+        "address": "0x24800b3b01e87bb1704bdf6f3520dc918ba0a8f7",
+        "decimals": 6,
+        "symbol": "USDC",
+        "logoURI": "https://basescan.org/token/images/centre-usdc_28.png"
+      }
+    ],
+    "version": {
+      "minor": null,
+      "patch": 58
+    }
+  }
